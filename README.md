@@ -1,2 +1,2 @@
 # ESP32-Control-Relay-Full-version
-ESP32 Web base control  2 relay With user authentication keep user account in EEPROM which user can change user name and password.
+ESP32 Web-based control of 2 relays with a user authentication page, allowing users to manage their accounts by changing their usernames and passwords themselves, with the account information stored in EEPROM.
