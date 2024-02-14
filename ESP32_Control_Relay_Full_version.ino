@@ -2,9 +2,8 @@
 #include <WebServer.h>
 #include <EEPROM.h>
 
-const char* ssid = "Akubhi";
-//const char* ssid = "PhayouneWIFI";
-const char* wifi_password = "PhayounE2014";
+const char* ssid = "your wifi ssid";
+const char* wifi_password = "your wifi password";
 
 const int EEPROM_SIZE = 64;
 
